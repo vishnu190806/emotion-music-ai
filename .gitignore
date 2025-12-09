@@ -1,0 +1,33 @@
+# Secrets and credentials
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Spotify cache
+.cache
+
+# Model files (optional - uncomment if models are too large for git)
+# src/model.h5
+
+# OS files
+.DS_Store
+Thumbs.db

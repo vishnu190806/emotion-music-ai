@@ -1,0 +1,7 @@
+{
+  "name": "Emotion Music AI",
+  "description": "A next-generation music discovery web app that reads facial emotions in real-time and suggests perfectly matched Spotify tracks, featuring a futuristic, immersive design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
