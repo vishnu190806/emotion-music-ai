@@ -14,7 +14,7 @@ Emotion Music AI is a modern, cross-platform music recommendation system that us
 
 - 🎭 7-Emotion Detection via Mini-XCEPTION
 - 🎵 Personalized Spotify music recommendations with diversity & deduplication
-- 🌍 14+ languages, market-aware, and Mixed/Random mode
+- 🌍 4-5 languages, market-aware, and Mixed/Random mode
 - 🎨 Modern, glassmorphic web frontend with real-time webcam and album art
 - 🕘 Unique tracks per session, user, and emotion
 - ⚡ Fast: <100ms detection, <500ms track fetch
@@ -119,5 +119,5 @@ MIT
 ---
 
 ## Credits
-Project by [YourName].
+Project by Vishnu.
 Model: Mini-XCEPTION (O. Arriaga et al.). Spotipy + Spotify Developers. Based on research and open-source vision projects.
