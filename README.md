@@ -1,12 +1,12 @@
 
-# Emotion Music AI 🎭🎵
+# Real-time Emotion-based Music Recommender 🎭🎵
 
 Your vibe. Your soundtrack. Powered by real-time emotion detection and AI-driven music recommendations.
 
 ---
 
 ## Overview
-Emotion Music AI is a modern, cross-platform music recommendation system that uses your webcam to detect your facial emotion and instantly curates a personalized playlist from Spotify to match your mood. Inspired by state-of-the-art Deep Learning and global music discovery, this app is designed to deliver unique and fresh music experiences for every user, every time.
+Real-time Emotion-based Music Recommender is a modern, cross-platform music recommendation system that uses your webcam to detect your facial emotion and instantly curates a personalized playlist from Spotify to match your mood. Inspired by state-of-the-art Deep Learning and global music discovery, this app is designed to deliver unique and fresh music experiences for every user, every time.
 
 ---
 
@@ -114,7 +114,7 @@ Pull requests and feature ideas welcome! Please open an issue for improvements, 
 ---
 
 ## License
-MIT
+The project is for educational use only.
 
 ---
 
